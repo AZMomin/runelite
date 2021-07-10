@@ -79,7 +79,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("Stop crying! Talk to the head.", "Head mourner", new WorldPoint(2042, 4630, 0), "Talk to the Head mourner in the mourner headquarters in West Ardougne."),
 		new CrypticClue("Search the crate near a cart in Port Khazard.", CRATE_366, new WorldPoint(2660, 3149, 0), "Search by the southern Khazard General Store in Port Khazard."),
 		new CrypticClue("Speak to the bartender of the Blue Moon Inn in Varrock.", "Bartender", new WorldPoint(3226, 3399, 0), "Talk to the bartender in Blue Moon Inn in Varrock."),
-		new CrypticClue("This aviator is at the peak of his profession.", "Captain Bleemadge", new WorldPoint(2846, 1749, 0), "Captain Bleemadge, the gnome glider pilot, is found at the top of White Wolf Mountain."),
+		new CrypticClue("This aviator is at the peak of his profession.", "Captain Bleemadge", new WorldPoint(2847, 3499, 0), "Captain Bleemadge, the gnome glider pilot, is found at the top of White Wolf Mountain."),
 		new CrypticClue("Search the crates in the shed just north of East Ardougne.", CRATE_355, new WorldPoint(2617, 3347, 0), "The crates in the shed north of the northern Ardougne bank."),
 		new CrypticClue("I wouldn't wear this jean on my legs.", "Father Jean", new WorldPoint(1734, 3576, 0), "Talk to father Jean in the Hosidius church."),
 		new CrypticClue("Search the crate in the Toad and Chicken pub.", CRATE_354, new WorldPoint(2913, 3536, 0), "The Toad and Chicken pub is located in Burthorpe."),
@@ -105,7 +105,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("A crate found in the tower of a church is your next location.", CRATE_357, new WorldPoint(2612, 3304, 1), "Climb the ladder and search the crates on the first floor in the Church in Ardougne."),
 		new CrypticClue("Covered in shadows, the centre of the circle is where you will find the answer.", new WorldPoint(3488, 3289, 0), "Dig in the centre of Mort'ton, where the roads intersect."),
 		new CrypticClue("I lie lonely and forgotten in mid wilderness, where the dead rise from their beds. Feel free to quarrel and wind me up, and dig while you shoot their heads.", new WorldPoint(3174, 3663, 0), "Directly under the crossbow respawn in the Graveyard of Shadows in level 18 Wilderness."),
-		new CrypticClue("In the city where merchants are said to have lived, talk to a man with a splendid cape, but a hat dropped by goblins.", "Head chef", new WorldPoint(3143, 3445, 0), "Talk to the Head chef in Cooks' Guild west of Varrock. You will need a chef hat or cooking cape to enter."),
+		new CrypticClue("In the city where merchants are said to have lived, talk to a man with a splendid cape, but a hat dropped by goblins.", "Head chef", new WorldPoint(3143, 3445, 0), "Talk to the Head chef in Cooks' Guild west of Varrock. You will need a chef's hat, Varrock armour 3 or 4, or the Cooking cape to enter."),
 		new CrypticClue("The mother of the reptilian sacrifice.", "Zul-Cheray", new WorldPoint(2204, 3050, 0), "Talk to Zul-Cheray in a house near the sacrificial boat at Zul-Andra."),
 		new CrypticClue("I watch the sea. I watch you fish. I watch your tree.", "Ellena", new WorldPoint(2860, 3431, 0), "Speak to Ellena at Catherby fruit tree patch."),
 		new CrypticClue("Dig between some ominous stones in Falador.", new WorldPoint(3040, 3399, 0), "Three standing stones inside a walled area. East of the northern Falador gate."),
@@ -200,7 +200,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("My life was spared but these voices remain, now guarding these iron gates is my bane.", "Key Master", new WorldPoint(1310, 1251, 0), "Speak to the Key Master in Cerberus' Lair."),
 		new CrypticClue("Search the boxes in one of the tents in Al Kharid.", BOXES_361, new WorldPoint(3308, 3206, 0), "Search the boxes in the tent east of the Al Kharid Silk trader."),
 		new CrypticClue("One of several rhyming brothers, in business attire with an obsession for paper work.", "Piles", new WorldPoint(3186, 3936, 0), "Speak to Piles in the Wilderness Resource Area. An entry fee of 7,500 coins is required, or less if Wilderness Diaries have been completed."),
-		new CrypticClue("Search the drawers on the first floor of a building overlooking Ardougne's Market.", DRAWERS_352, new WorldPoint(2657, 3322, 1), "Climb the ladder in the house north of the East Ardougne market."),
+		new CrypticClue("Search the drawers on the ground floor of a building facing Ardougne's Market.", DRAWERS_350, new WorldPoint(2653, 3320, 0), "Inside Noella's house north of the East Ardougne market."),
 		new CrypticClue("'A bag belt only?', he asked his balding brothers.", "Abbot Langley", new WorldPoint(3058, 3487, 0), "Talk-to Abbot Langley in Monastery west of Edgeville"),
 		new CrypticClue("Search the drawers upstairs in Falador's shield shop.", DRAWERS, new WorldPoint(2971, 3386, 1), "Cassie's Shield Shop at the northern Falador entrance."),
 		new CrypticClue("Go to this building to be illuminated, and check the drawers while you are there.", "Market Guard", DRAWERS_350 , new WorldPoint(2512, 3641, 1), "Search the drawers in the first floor of the Lighthouse. Kill a Rellekka marketplace guard to obtain the key."),
@@ -244,7 +244,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("She's small but can build both literally and figuratively, as long as you have their favour.", "Lovada", new WorldPoint(1486, 3834, 0), "Speak to Lovada by the entrance to the blast mine in Lovakengj."),
 		new CrypticClue("Dig in front of the icy arena where 1 of 4 was fought.", new WorldPoint(2874, 3757, 0), "North of Trollheim, where you fought Kamil from Desert Treasure."),
 		new CrypticClue("Speak to Roavar.", "Roavar", new WorldPoint(3494, 3474, 0), "Talk to Roavar in the Canifis tavern."),
-		new CrypticClue("Search the drawers upstairs of houses in the eastern part of Falador.", DRAWERS_350, new WorldPoint(3035, 3347, 1), "House is located east of the eastern Falador bank and south of the fountain. The house is indicated by a cooking range icon on the minimap."),
+		new CrypticClue("Search the drawers downstairs of houses in the eastern part of Falador.", DRAWERS_350, new WorldPoint(3039, 3342, 0), "House is located east of the eastern Falador bank and south of the fountain. The house is indicated by a cooking range icon on the minimap."),
 		new CrypticClue("Search the drawers found upstairs in East Ardougne's houses.", DRAWERS, new WorldPoint(2574, 3326, 1), "Upstairs of the pub north of the Ardougne Castle."),
 		new CrypticClue("The far north eastern corner where 1 of 4 was defeated, the shadows still linger.", new WorldPoint(2744, 5116, 0), "Dig on the northeastern-most corner of the Shadow Dungeon. Bring a ring of visibility."),
 		new CrypticClue("Search the drawers in a house in Draynor Village.", DRAWERS_350, new WorldPoint(3097, 3277, 0), "The drawer is located in the northernmost house in Draynor Village."),
@@ -298,7 +298,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("I would make a chemistry joke, but I'm afraid I wouldn't get a reaction.", "Chemist", new WorldPoint(2932, 3212, 0), "Talk to the Chemist in Rimmington"),
 		new CrypticClue("Show this to Hazelmere.", "Hazelmere", new WorldPoint(2677, 3088, 1), "Located upstairs in the house east of Yanille, north of fairy ring CLS."),
 		new CrypticClue("Does one really need a fire to stay warm here?", new WorldPoint(3816, 3810, 0), "Dig next to the fire near the Volcanic Mine entrance on Fossil Island."),
-		new CrypticClue("Search the open crate found in the Hosidius kitchens.", CRATE_27533, new WorldPoint(1683, 3616, 0), "The kitchens are north-west of the town in Hosidius."),
+		new CrypticClue("Search the open crate found in the Hosidius kitchens.", CRATES_27533, new WorldPoint(1683, 3616, 0), "The kitchens are north-west of the town in Hosidius."),
 		new CrypticClue("Dig under Ithoi's cabin.", new WorldPoint(2529, 2838, 0), "Dig under Ithoi's cabin in the Corsair Cove."),
 		new CrypticClue("Search the drawers, upstairs in the bank to the East of Varrock.", DRAWERS_7194, new WorldPoint(3250, 3420, 1), "Search the drawers upstairs in Varrock east bank."),
 		new CrypticClue("Speak to Hazelmere.", "Hazelmere", new WorldPoint(2677, 3088, 1), "Located upstairs in the house east of Yanille, north of fairy ring CLS. Answer: 6859", "What is 19 to the power of 3?"),
@@ -324,12 +324,18 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		new CrypticClue("Observing someone in a swamp, under the telescope lies treasure.", new WorldPoint(2221, 3091, 0), "Dig next to the telescope on Broken Handz's island in the poison wastes. (Accessible only through fairy ring DLR)"),
 		new CrypticClue("A general who sets a 'shining' example.", "General Hining", new WorldPoint(2186, 3148, 0), "Talk to General Hining in Tyras Camp."),
 		new CrypticClue("Has no one told you it is rude to ask a lady her age?", "Mawrth", new WorldPoint(2333, 3165, 0), "Talk to Mawrth in Lletya."),
-		new CrypticClue("Elvish onions.", new WorldPoint(3303, 6092, 0), "Dig in the onion patch east of the Prifddinas allotments.")
+		new CrypticClue("Elvish onions.", new WorldPoint(3303, 6092, 0), "Dig in the onion patch east of the Prifddinas allotments."),
+		new CrypticClue("Dig by the Giant's Den entrance, looking out over Lake Molch.", new WorldPoint(1418, 3591, 0), "South-east of Lake Molch in Zeah, outside the cave entrance."),
+		new CrypticClue("Search the crates in the fruit store just east of the Hosidius town centre.", CRATES_27533, new WorldPoint(1798, 3612, 0), "Search the crates in the back room of the Hosidius fruit store."),
+		new CrypticClue("A graceful man of many colours, his crates must be full of many delights.", "Hill Giant", CRATE_42067, new WorldPoint(1506, 3591, 2), "Kill any Hill Giant for a medium key. Then search the crate on the top floor of Osten's clothing shop in Shayzien."),
+		new CrypticClue("Search the basket of apples in an orchard, south of the unknown grave surrounded by white roses.", APPLE_BASKET, new WorldPoint(1718, 3626, 0), "Search the middle apple basket in the apple orchard north of Hosidius."),
+		new CrypticClue("Dig in the lair of red wings, within the temple of the Sun and Moon.", new WorldPoint(1820, 9935, 0), "Forthos Dungeon. In the center of the red dragons.")
 	);
 
 	private final String text;
 	private final String npc;
 	private final int objectId;
+	@Nullable
 	private final WorldPoint location;
 	private final String solution;
 	@Nullable
@@ -371,7 +377,7 @@ public class CrypticClue extends ClueScroll implements TextClueScroll, NpcClueSc
 		this(text, npc, objectId, location, solution, null);
 	}
 
-	private CrypticClue(String text, String npc, int objectId, WorldPoint location, String solution, @Nullable String questionText)
+	private CrypticClue(String text, String npc, int objectId, @Nullable WorldPoint location, String solution, @Nullable String questionText)
 	{
 		this.text = text;
 		this.npc = npc;
